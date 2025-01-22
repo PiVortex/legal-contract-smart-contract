@@ -35,3 +35,4 @@ cargo near deploy build-reproducible-wasm <account-id>
 - [NEAR Discord](https://near.chat)
 - [NEAR Telegram Developers Community Group](https://t.me/neardev)
 - NEAR DevHub: [Telegram](https://t.me/neardevhub), [Twitter](https://twitter.com/neardevhub)
+# legal-contract-smart-contract
